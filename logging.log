@@ -1,0 +1,318 @@
+2024-08-28 08:26:12,612 - DEBUG - This is a debug message
+2024-08-28 08:26:12,613 - INFO - This is a info message
+2024-08-28 08:26:12,613 - WARNING - This is a warining message
+2024-08-28 08:26:12,613 - ERROR - This is a error message
+2024-08-28 08:26:12,613 - CRITICAL - This is a critical message
+2024-08-28 08:26:12,613 - ERROR - An exception occurred:division by zero
+Traceback (most recent call last):
+  File "/Users/debasishguru/Desktop/untitled folder/Next Project Hike 6/logger.py", line 14, in <module>
+    result=1/0
+           ~^~
+ZeroDivisionError: division by zero
+2024-09-05 05:23:42,691-INFO-This is a info message
+2024-09-05 05:25:21,308-INFO-This is a info message
+2024-09-05 05:25:21,308-INFO-This is a info message
+2024-09-05 05:28:14,925-INFO-Loading the datasets
+2024-09-05 05:35:18,414-INFO-Checking the null values foe each datasets
+2024-09-05 05:35:18,414-INFO-Checking the null values foe each datasets
+2024-09-05 05:36:48,469-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 05:36:48,469-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 05:36:48,470-INFO-Handling the null values for store_df and test_df
+2024-09-05 05:36:48,470-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:09:15,395-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:09:15,395-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:09:15,396-INFO-Merge the datasets
+2024-09-05 06:09:15,396-INFO-Merge the datasets
+2024-09-05 06:09:26,324-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:09:26,324-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:09:26,326-INFO-Merge the datasets
+2024-09-05 06:09:26,326-INFO-Merge the datasets
+2024-09-05 06:09:55,964-INFO-Sucessfully merged the datasets
+2024-09-05 06:09:55,964-INFO-Sucessfully merged the datasets
+2024-09-05 06:10:52,793-INFO-This is a info message
+2024-09-05 06:10:52,793-INFO-This is a info message
+2024-09-05 06:10:52,793-INFO-This is a info message
+2024-09-05 06:10:52,968-INFO-Loading the datasets
+2024-09-05 06:10:52,968-INFO-Loading the datasets
+2024-09-05 06:10:52,968-INFO-Loading the datasets
+2024-09-05 06:10:53,308-INFO-Checking the null values foe each datasets
+2024-09-05 06:10:53,308-INFO-Checking the null values foe each datasets
+2024-09-05 06:10:53,308-INFO-Checking the null values foe each datasets
+2024-09-05 06:10:53,352-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:10:53,352-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:10:53,352-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:10:53,353-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:10:53,353-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:10:53,353-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:10:54,394-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:10:54,394-INFO-Sucessfully handled the null values for each data set2024-09-05 06:36:13,882-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:36:13,882-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:36:13,882-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:36:13,882-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:47:36,675-INFO-This is a info message
+2024-09-05 06:47:36,675-INFO-This is a info message
+2024-09-05 06:47:36,675-INFO-This is a info message
+2024-09-05 06:47:36,675-INFO-This is a info message
+2024-09-05 06:47:36,675-INFO-This is a info message
+2024-09-05 06:47:36,823-INFO-Loading the datasets
+2024-09-05 06:47:36,823-INFO-Loading the datasets
+2024-09-05 06:47:36,823-INFO-Loading the datasets
+2024-09-05 06:47:36,823-INFO-Loading the datasets
+2024-09-05 06:47:36,823-INFO-Loading the datasets
+2024-09-05 06:47:37,164-INFO-Checking the null values foe each datasets
+2024-09-05 06:47:37,164-INFO-Checking the null values foe each datasets
+2024-09-05 06:47:37,164-INFO-Checking the null values foe each datasets
+2024-09-05 06:47:37,164-INFO-Checking the null values foe each datasets
+2024-09-05 06:47:37,164-INFO-Checking the null values foe each datasets
+2024-09-05 06:47:37,209-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:47:37,209-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:47:37,209-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:47:37,209-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:47:37,209-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 06:47:37,210-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:47:37,210-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:47:37,210-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:47:37,210-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:47:37,210-INFO-Handling the null values for store_df and test_df
+2024-09-05 06:47:38,222-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:47:38,222-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:47:38,222-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:47:38,222-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:47:38,222-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 06:47:38,223-INFO-Merge the datasets
+2024-09-05 06:47:38,223-INFO-Merge the datasets
+2024-09-05 06:47:38,223-INFO-Merge the datasets
+2024-09-05 06:47:38,223-INFO-Merge the datasets
+2024-09-05 06:47:38,223-INFO-Merge the datasets
+2024-09-05 06:47:38,381-INFO-Sucessfully merged the datasets
+2024-09-05 06:47:38,381-INFO-Sucessfully merged the datasets
+2024-09-05 06:47:38,381-INFO-Sucessfully merged the datasets
+2024-09-05 06:47:38,381-INFO-Sucessfully merged the datasets
+2024-09-05 06:47:38,381-INFO-Sucessfully merged the datasets
+2024-09-05 06:47:38,531-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:47:38,531-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:47:38,531-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:47:38,531-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 06:47:38,531-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:38:50,731-INFO-Scaling the all categorical columns
+2024-09-05 21:38:50,731-INFO-Scaling the all categorical columns
+2024-09-05 21:38:50,731-INFO-Scaling the all categorical columns
+2024-09-05 21:38:50,731-INFO-Scaling the all categorical columns
+2024-09-05 21:38:50,731-INFO-Scaling the all categorical columns
+2024-09-05 21:39:04,427-INFO-Scaling the all categorical columns
+2024-09-05 21:39:04,427-INFO-Scaling the all categorical columns
+2024-09-05 21:39:04,427-INFO-Scaling the all categorical columns
+2024-09-05 21:39:04,427-INFO-Scaling the all categorical columns
+2024-09-05 21:39:04,427-INFO-Scaling the all categorical columns
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,661-INFO-This is a info message
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:39,854-INFO-Loading the datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,220-INFO-Checking the null values foe each datasets
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,267-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:40,269-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,712-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:41,714-INFO-Merge the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,116-INFO-Sucessfully merged the datasets
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:42,331-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,050-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,250-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:39:43,452-INFO-Scaling the all categorical columns
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,084-INFO-This is a info message
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,496-INFO-Loading the datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:35,870-INFO-Checking the null values foe each datasets
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,202-WARNING-Store_df and test_df has more nunber of null values 
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:36,203-INFO-Handling the null values for store_df and test_df
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,738-INFO-Sucessfully handled the null values for each data set 
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:38,740-INFO-Merge the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,024-INFO-Sucessfully merged the datasets
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:39,396-INFO-Extract weekdays and weekends from the train and test merged dataset
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,562-INFO-Extracting begining of the month , mid-month and end of the month 
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:40,978-INFO-Extracting begining of the month , mid-month and end of the month  for test_merged_df
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:40:41,402-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:51:01,947-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:08,874-INFO-Scaling the all categorical columns
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:54:51,825-INFO-Sucessfully Scaled both train_merged_df and test_merged_df
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:56:41,958-INFO-Converting all categorical column value to numerical value
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:57:17,800-INFO-Sucessfully converted the categorical column to numerical both train_merged_df and test_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 21:58:08,385-INFO-Scalling the columns in train_merged_df
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:10,195-INFO-Saviing the datasets
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
+2024-09-05 22:13:15,278-INFO-Datasets saved Successfully
